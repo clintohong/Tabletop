@@ -37,3 +37,16 @@
   }
   
   .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+  /* Remove borders from cards */
+  .card {
+    border: none;
+  }
+  
+  .card-link {
+    text-decoration: none;
+  }
+  
+  .card-link:hover {
+    text-decoration: none;
+  }
