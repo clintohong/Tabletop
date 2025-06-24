@@ -1,3 +1,7 @@
 Network Threat Hunting Zeek/RITA analysis >Threat Hunting
 Memory Analysis > Memory Forensics
 Endpoint Analysis > Investigate Endpoint
+> Endpoint Detection and Response
+Firewall Log Review > Firewall Log Analysis
+Server Analysis > Investigate Server
+SIEM Log Analysis > Security Event Information Management
